@@ -12,4 +12,7 @@ Carnet: CH160423
 ## Ramas
 
 **Rama MvcPersona:** 
-Creación del controlador PersonasController y adición de búsqueda por atributos de DUI y Nombre
+Adición de búsqueda por medio del precio.
+
+**Rama MvcPersona:** 
+Creación del controlador PersonasController y adición de búsqueda por atributos de DUI y Nombre.
